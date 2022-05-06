@@ -72,7 +72,7 @@ These next pieces range from sculptures and small figurines to plaques, and sarc
 [20.191](https://www.metmuseum.org/art/collection/search/250929)
 
 #### ***Marble Statuettes of Castor and Pollux***
-[photo](phone)
+<p><img src="photos/castor and pollux.jpg" alt="photo" width= "350px"/></p>
 L.2008.18.1, .2
 
 #### ***Marble portrait bust of a man***
