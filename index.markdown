@@ -1,11 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-Title: Immerse yourself in the World of Roman and Byzantine fashion with Fibulae!
 exclude: true
 ---
+
 # Immerse yourself in the World of Roman and Byzantine fashion with Fibulae!
 
 ## Check out Roman Military fibulae or Jeweled Late Roman and Byzantine Brooches
