@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This is a common visigothic-style bow brooch. The head is a semi-circular shape with five little spikes coming off of it in a radial pattern. The body is a long rounded-rectangular shape with four little rounded spikes on the edge. Covered all over the fibula is a geometric-style design with lines and triangle-like patterns.
 ### Culture
 Visigothic
 ### Period
@@ -19,8 +21,7 @@ Copper alloy, cast, "tinned" surface; iron spring and pin.
 ### Size
 L: 15.2 cm, D: 1.8 cm
 
-### Description
-This is a common visigothic-style bow brooch. The head is a semi-circular shape with five little spikes coming off of it in a radial pattern. The body is a long rounded-rectangular shape with four little rounded spikes on the edge. Covered all over the fibula is a geometric-style design with lines and triangle-like patterns.
+
 
 #### Accession Number
 [47.100.20](https://www.metmuseum.org/art/collection/search/468182)

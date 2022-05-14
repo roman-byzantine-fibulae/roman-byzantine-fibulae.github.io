@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 ‘Bent-stem’
+### Description
+ It looks like it was a ’bent-stem' fibula, but the catch was broken off. The spring is fairly short/small, and it looks like there are small knobs on the ends of the spring.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Mid 2nd Century CE
  L: 47.0mm, W: Head- 22.0mm, Bow- 6.0mm, D: 13.5mm
 ### Weight
  6.1g
-### Description
- It looks like it was a ’bent-stem' fibula, but the catch was broken off. The spring is fairly short/small, and it looks like there are small knobs on the ends of the spring.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_14.md %}) | [Next]({% link Roman Military Fibulae/fibula_16.md %})

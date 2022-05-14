@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This fibula has square-head which was a popular style among the Anglo-Saxons. Even though this piece is relatively small, it still has a great amount of detailing. The head has many little dots that are arranged to go around in the rectangular form of the head as well as geometric lines that follow that pattern too. The body is divided into four quadrants by a cross-like symbol in the middle of it with a circle at the intersection. The top two quadrants have a more intricate design with geometric shapes, and the bottom two quadrants are relatively plain expect for the outlining dot design.
 ### Culture
 Anglo-Saxon
 ### Period
@@ -19,8 +21,7 @@ Silver-gilt, niello; iron pin
 ### Size
 L: 4.0 cm, W: 1.8 cm, D: 0.9 cm
 
-### Description
-This fibula has square-head which was a popular style among the Anglo-Saxons. Even though this piece is relatively small, it still has a great amount of detailing. The head has many little dots that are arranged to go around in the rectangular form of the head as well as geometric lines that follow that pattern too. The body is divided into four quadrants by a cross-like symbol in the middle of it with a circle at the intersection. The top two quadrants have a more intricate design with geometric shapes, and the bottom two quadrants are relatively plain expect for the outlining dot design.
+
 
 #### Accession Number
 [17.191.42](https://www.metmuseum.org/art/collection/search/465089)

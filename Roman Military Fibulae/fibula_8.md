@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 Early spring crossbow
+### Description
+This fibula has a medium bilateral spring, and lines detailed along the bow. It also has a long catch.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Early 3rd Century CE
  L: 63.5mm, W: Head- 33.0mm, Bow- 7.0mm, D: 22.5mm
 ### Weight
  19.3g
-### Description
-This fibula has a medium bilateral spring, and lines detailed along the bow. It also has a long catch.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_17.md %}) | [Next]({% link Roman Military Fibulae/fibula_18.md %})

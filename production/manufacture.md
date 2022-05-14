@@ -35,7 +35,7 @@ It raises the cost to produce due to the increase of materials needed to produce
 being separated, the molten metal melts the wax.
 
 ## Construction
-<img src="photos/parts of fibula.JPG" alt="photo" width= "600px" style= "margin-left= 100px"/>
+<img src="https://www.forumancientcoins.com/NumisWiki/images/Busuladzic_Fibula_Parts.JPG" alt="drawing" width="500" style= "margin-left: 100px"/>
 
 A fibula consists of two parts: the body and the pin. The body is the important part
 of the fibula because that is the part that makes each brooch unique and classifies them.

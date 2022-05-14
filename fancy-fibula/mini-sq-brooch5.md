@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This fibula has been worn down over time quite a bit, but there is still some design and pattern recognition. This fibula has a square-head style with lots of geometric line work over the entire fibula. This one still as this symbol of a cross in the middle of the body dividing it up into four quadrants of design. At the bottom of the fibula is the foot and it is a square shape similar to the head with minimal design.
 ### Culture
 Anglo-Saxon
 ### Period
@@ -19,8 +21,7 @@ Silver-gilt
 ### Size
 L: 4.2 cm, W: 2.1 cm, D: 0.7 cm
 
-### Description
-This fibula has been worn down over time quite a bit, but there is still some design and pattern recognition. This fibula has a square-head style with lots of geometric line work over the entire fibula. This one still as this symbol of a cross in the middle of the body dividing it up into four quadrants of design. At the bottom of the fibula is the foot and it is a square shape similar to the head with minimal design.
+
 
 #### Accession Number
 [17.191.48](https://www.metmuseum.org/art/collection/search/465095)

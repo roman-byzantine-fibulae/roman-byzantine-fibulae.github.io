@@ -11,6 +11,8 @@ exclude: true
 
 ### Fibula Type
 Crossbow
+### Description
+ This is a very famous Gold croosbow fibula, and is known for its *opus interrasile* meaning 'open work'. This 'open work' is in reference to the very intricate decoration of the body. The 'open work' is the design in which is created all these little holes with these circular patterns. It also shows this major switch that was happening in the Late Roman period with this switch to Christianity. There is a large Cross symbol on the body with a circle that encloses the top of it. It also has a unique catch system for the pin in which it is suppose to be inserted into the back that contains even more openwork. There is also ha heavy-style crossbar with the onion-shaped knobs at the ends. It can also be seen that there is some considerable damage to the piece that could be most likely a cause from flaws in construction of the fibula.
 ### Culture
 Late Roman/ Byzantine
 ### Period
@@ -21,8 +23,7 @@ Late Roman Imperial
 Gold
 ### Size
  L: 11.5cm, W: 5.5 cm, D: 4.0cm
-### Description
- This is a very famous Gold croosbow fibula, and is known for its *opus interrasile* meaning 'open work'. This 'open work' is in reference to the very intricate decoration of the body. The 'open work' is the design in which is created all these little holes with these circular patterns. It also shows this major switch that was happening in the Late Roman period with this switch to Christianity. There is a large Cross symbol on the body with a circle that encloses the top of it. It also has a unique catch system for the pin in which it is suppose to be inserted into the back that contains even more openwork. There is also ha heavy-style crossbar with the onion-shaped knobs at the ends. It can also be seen that there is some considerable damage to the piece that could be most likely a cause from flaws in construction of the fibula.
+
 
 #### Accession Number
 [1995.97](https://www.metmuseum.org/art/collection/search/466286)

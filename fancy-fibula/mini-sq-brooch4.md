@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This fibula has square-head which was a popular style among the Anglo-Saxons. On the head, it keeps the rectangular pattern in the design by using lines follow the shape and in between the lines there are circles. In the center of the head where there might be a garnet, there is some geometric line work instead. On the body there is a line of circles that follow the outline of the diamond-shaped body. Then the diamond shape is continued going in toward the center where there is a cross-like symbol. At the end of the body is a small square with a little more line work.
 ### Culture
 Anglo-Saxon
 ### Period
@@ -19,8 +21,7 @@ Silver-gilt; iron pin
 ### Size
 L: 4.5 cm, W: 1.6 cm, D: 0.9 cm
 
-### Description
-This fibula has square-head which was a popular style among the Anglo-Saxons. On the head, it keeps the rectangular pattern in the design by using lines follow the shape and in between the lines there are circles. In the center of the head where there might be a garnet, there is some geometric line work instead. On the body there is a line of circles that follow the outline of the diamond-shaped body. Then the diamond shape is continued going in toward the center where there is a cross-like symbol. At the end of the body is a small square with a little more line work.
+
 
 #### Accession Number
 [17.191.46](https://www.metmuseum.org/art/collection/search/465093)

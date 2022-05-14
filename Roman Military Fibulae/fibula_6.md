@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 ‘Bent-stem’
+### Description
+This “bent-stem’ fibula has a long foot that comes back around to wrap around itself where the bow and foot of the fibula meet
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Mid 2nd Century CE
 L: 67.0mm, W: Head- 26.5mm, Bow: 6.5mm, D: 22.0mm
 ### Weight
  16.6g
-### Description
-This “bent-stem’ fibula has a long foot that comes back around to wrap around itself where the bow and foot of the fibula meet
+
 
 [Previous]({% link Roman Military Fibulae/fibula_3.md %}) | [Next]({% link Roman Military Fibulae/fibula_7.md %})

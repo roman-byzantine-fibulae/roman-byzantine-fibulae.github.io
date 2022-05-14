@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This fibula has a semi-circular shaped head-plate with hook-shaped extremities positioned in a radial pattern. At each end of these pieces, they contain a garnet which can symbolize wealth. The head-plate has small detailing of dots arranged in the semi-circular pattern of the head-plate. The bow contains some ribbing on the two edges and dots following a similar linear pattern. The body is very intricately decorated with dots and lines, and follows the diamond-shape of the body. At the two vertices on the side of the diamond are two garnets, and at the bottom vertex is a final garnet shaped into a semi-circle.
 ### Culture
 Frankish
 ### Period
@@ -19,8 +21,7 @@ Silver-gilt, niello, garnets
 ### Size
 L: 9.5 cm, W: 4.9 cm, D: 1.0 cm
 
-### Description
-This fibula has a semi-circular shaped head-plate with hook-shaped extremities positioned in a radial pattern. At each end of these pieces, they contain a garnet which can symbolize wealth. The head-plate has small detailing of dots arranged in the semi-circular pattern of the head-plate. The bow contains some ribbing on the two edges and dots following a similar linear pattern. The body is very intricately decorated with dots and lines, and follows the diamond-shape of the body. At the two vertices on the side of the diamond are two garnets, and at the bottom vertex is a final garnet shaped into a semi-circle.
+
 
 #### Accession Number
 [17.191.172](https://www.metmuseum.org/art/collection/search/464867)

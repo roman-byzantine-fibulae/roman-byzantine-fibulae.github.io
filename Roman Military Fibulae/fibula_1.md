@@ -9,6 +9,10 @@ exclude: true
 
 ### Fibula Type
 Aucissa
+
+### Description
+ An aucissa fibula with some detailing on the bow of the fibula with a knob at the end of the foot. The pin appears to be broken at the end.
+ 
 ### Culture
 Roman
 ### Period
@@ -21,7 +25,6 @@ Early 2nd century CE
  L: 58.0mm, W: 9.0mm, D: 31.0mm
 ### Weight
  8.7g
-### Description
- An aucissa fibula with some detailing on the bow of the fibula with a knob at the end of the foot. The pin appears to be broken at the end.
+
 
 [Next]({% link Roman Military Fibulae/fibula_2.md %}) |

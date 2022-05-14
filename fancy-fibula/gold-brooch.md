@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Crossbow
+### Description
+ This is a heavy Crossbow fibula with three knobs on the head and a flat rectangular foot. It has decorations on the foot and on the top of the bow. Along the side of the bow it has an inscription in Latin: HERCVLI AVGVSTE SEMPER VINCAS. Translation: 'May you always be victorious, Hercules Augustus'
 ### Culture
 Roman
 ### Period
@@ -20,8 +22,7 @@ Gold
  L: 5.4 cm
 ### Provenance
  Arretium (modern Arezzo, Italy)
-### Description
- This is a heavy Crossbow fibula with three knobs on the head and a flat rectangular foot. It has decorations on the foot and on the top of the bow. Along the side of the bow it has an inscription in Latin: HERCVLI AVGVSTE SEMPER VINCAS. Translation: 'May you always be victorious, Hercules Augustus'
+
 
 #### Accession Number
 [95.15.113](https://www.metmuseum.org/art/collection/search/245923)

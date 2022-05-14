@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 T-shape
+### Description
+ This is a fairly small fibula, and has a small catch at the foot. There are multiple ridges and ripples along the bow. At the peak arch of the bow there is a spherical-like shape design.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Late 1st Century CE
   L: 32.0mm, W: 9.0mm, D: 13.5mm
 ### Weight
 3.9g
-### Description
- This is a fairly small fibula, and has a small catch at the foot. There are multiple ridges and ripples along the bow. At the peak arch of the bow there is a spherical-like shape design.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_21.md %}) | [Last]({% link Roman Military Fibulae/fibula_10.md %})

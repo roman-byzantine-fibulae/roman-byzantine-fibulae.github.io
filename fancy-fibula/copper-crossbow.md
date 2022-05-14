@@ -11,6 +11,8 @@ exclude: true
 
 ### Fibula Type
 Crossbow
+### Description
+ This is a heavy Crossbow fibula with three onion-shaped knobs and a long flat catch plate. It has intricate design patterns all along the brooch of circles and spirals.
 ### Culture
 Roman
 ### Period
@@ -22,8 +24,6 @@ Copper alloy with silver inlay
 ### Size
  L: 9.4 cm, W: 5.4 cm, D: 3.1 cm
 
-### Description
- This is a heavy Crossbow fibula with three onion-shaped knobs and a long flat catch plate. It has intricate design patterns all along the brooch of circles and spirals.
 
 #### Accession Number
 [2001.303](https://www.metmuseum.org/art/collection/search/473327)

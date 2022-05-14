@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 ‘Bent-stem’
+### Description
+This fibula is fairly corroded, and appears to have had something covering part of the foot due to a less corrosive patch. It has a normal spring system.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Early 2nd Century CE
  L: 40.0mm, W: Head- 17.0mm, Bow- 4.0mm, D: 15.0mm
 ### Weight
  3.5g
-### Description
-This fibula is fairly corroded, and appears to have had something covering part of the foot due to a less corrosive patch. It has a normal spring system.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_15.md %}) | [Next]({% link Roman Military Fibulae/fibula_17.md %})

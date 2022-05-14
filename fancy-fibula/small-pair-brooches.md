@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This is a small bow brooch with pointed tips at the vertices on the head-plate, and on at the end of the foot-plate. This is a relatively small and simple bow fibula, and it comes as a pair. These kinds were mostly worn by women in pairs, one on each shoulder.
 ### Culture
 Ostrogothic
 ### Period
@@ -20,8 +22,7 @@ Silver cast. Pin: copper alloy with silver overlay
 L: 7.2 cm, W: 3.2 cm, D: 1.6 cm\
 L: 7.3 cm, W: 3.2 cm, D: 1.7 cm
 
-### Description
-This is a small bow brooch with pointed tips at the vertices on the head-plate, and on at the end of the foot-plate. This is a relatively small and simple bow fibula, and it comes as a pair. These kinds were mostly worn by women in pairs, one on each shoulder.
+
 
 #### Accession Number
 [98.11.107](https://www.metmuseum.org/art/collection/search/469060)\

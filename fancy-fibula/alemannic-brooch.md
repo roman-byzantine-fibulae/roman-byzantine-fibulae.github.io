@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow brooch
+### Description
+This fibula has a semi-circular shaped head-plate with zoomorphic-like extremities place in a radial pattern around the head-plate. The head-plate also contains many little details such as swirls and dots following the outline of the semi-circle. On the bow there is some zig-zag patter on the sides of it, and on the body it has more interesting line work. At the foot of the body, it is simple with only an outline of the shape and the rest is smoothed over.
 ### Culture
 Alemannic
 ### Period
@@ -19,8 +21,7 @@ Silver-gilt
 ### Size
 L: 8.8 cm, W: 5.8 cm, D: 1.2 cm
 
-### Description
-This fibula has a semi-circular shaped head-plate with zoomorphic-like extremities place in a radial pattern around the head-plate. The head-plate also contains many little details such as swirls and dots following the outline of the semi-circle. On the bow there is some zig-zag patter on the sides of it, and on the body it has more interesting line work. At the foot of the body, it is simple with only an outline of the shape and the rest is smoothed over.
+
 
 #### Accession Number
 [48.154.4](https://www.metmuseum.org/art/collection/search/468260)

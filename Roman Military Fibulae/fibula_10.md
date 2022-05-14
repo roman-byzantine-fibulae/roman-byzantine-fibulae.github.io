@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
 Colchester
+### Description
+ This bow fibula has a sleeve spring system, and a short catch. There is also a loop at the top of the head of the fibula, and the pin is missing.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Roman
 L: 44.5mm, W: Head- 14.5mm, Bow- 5.5mm, D: 13.5mm
 ### Weight
  7.3g
-### Description
- This bow fibula has a sleeve spring system, and a short catch. There is also a loop at the top of the head of the fibula, and the pin is missing.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_9.md %}) |

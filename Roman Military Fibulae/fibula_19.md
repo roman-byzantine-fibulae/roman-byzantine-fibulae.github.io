@@ -9,6 +9,8 @@ exclude: true
 
 ### Fibula Type
  Early Spring Crossbow
+ ### Description
+ This fibula has a rectangular-shaped foot, but it looks like it tapers a bit at the end. It also has a long bilateral spring. This makes the head as wide as it is long.
 ### Culture
 Roman
 ### Period
@@ -21,7 +23,6 @@ Early 3rd Century CE
 L: 37.5mm, W: Head- 38.0mm, Bow- 3.5mm, D: 17.5mm
 ### Weight
  6.5g
-### Description
-This fibula has a rectangular-shaped foot, but it looks like it tapers a bit at the end. It also has a long bilateral spring. This makes the head as wide as it is long.
+
 
 [Previous]({% link Roman Military Fibulae/fibula_18.md %}) | [Next]({% link Roman Military Fibulae/fibula_20.md %})

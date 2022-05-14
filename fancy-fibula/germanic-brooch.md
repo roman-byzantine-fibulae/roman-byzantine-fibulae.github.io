@@ -8,6 +8,8 @@ exclude: true
 
 ### Fibula Type
 Bow
+### Description
+This is a bow brooch with hexagon-like shaped head, and a pentagonal shaped body. At each of the vertices are small semi-spheres. It is also covered in lots of small detailing of circles, semi-circles, dots, and swirls.
 ### Culture
 Germanic
 ### Period
@@ -19,8 +21,7 @@ Silver with gilding and niello
 ### Size
  L: 13.7 cm, W: 3.6 cm, D: 2.6 cm
 
-### Description
-This is a bow brooch with hexagon-like shaped head, and a pentagonal shaped body. At each of the vertices are small semi-spheres. It is also covered in lots of small detailing of circles, semi-circles, dots, and swirls.
+
 
 #### Accession Number
 [2001.659.2](https://www.metmuseum.org/art/collection/search/474276)
